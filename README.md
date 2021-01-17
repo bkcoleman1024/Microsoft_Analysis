@@ -2,7 +2,7 @@
 
 **Author**: Bridget Coleman
 
-https://github.com/bkcoleman1024/Microsoft_Analysis/blob/main/images/Movie_image.jpg
+images/Movie_image.jpg
 
 ## Overview
 
@@ -14,7 +14,7 @@ With so many companies currently in this area, Microsoft is looking for insight 
 
 ## Data
 
-https://github.com/bkcoleman1024/Microsoft_Analysis/blob/main/images/RT_ratings.jpeg
+images/RT_ratings.jpeg
 
 The data has been collected from well known movie sites such as IMDB (Internet Movie Database), Rotten Tomatoes, and TMDB (The Movie Database). The information from these sites provides information from the movie industry as well as user and audience input. The user input is mainly voting.
 
@@ -22,7 +22,8 @@ The data has been collected from well known movie sites such as IMDB (Internet M
 
 This project focuses on profit and loss and return on investment.  Domestic and worldwide profits were compared.  Movies with the largest profits also had larger budgets.
 Domestic and worldwide ROI was also analyzed.  ROI analysis shows that there is potential with smaller budget movies.   
-https://github.com/bkcoleman1024/Microsoft_Analysis/blob/main/images/Horror_movies.jpg
+
+images/Horror_movies.jpg
 
 ## Results
 
@@ -50,9 +51,8 @@ For any additional questions, please contact Bridget Coleman, bkcoleman1024@gmai
 
 ```
 ├── MICROSOFT_README.md                 
-├── Microsoft_Analysis.ipynb            
-├── DS_Project_Presentation.pdf         
-├── data                                
-└── images                              
+├── images            
+├── Microsoft_Analysis.ipynb         
+└── DS_Project_Presentation.pdf                              
 ```
 

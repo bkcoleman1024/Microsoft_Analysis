@@ -1,5 +1,3 @@
-# Microsoft_Analysis
-Phase 1 project
 # Microsoft Analysis
 
 **Author**: Bridget Coleman

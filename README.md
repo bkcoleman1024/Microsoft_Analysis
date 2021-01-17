@@ -42,7 +42,7 @@ Build off of user feedback. Use this to reach the target audience.
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](.Microsoft_Analysis.ipynb) or our [presentation](.Microsoft_Presentation.pdf).
 
 For any additional questions, please contact Bridget Coleman, bkcoleman1024@gmail.com
 

@@ -2,6 +2,8 @@
 
 **Author**: Bridget Coleman
 
+https://github.com/bkcoleman1024/Microsoft_Analysis/blob/main/images/Movie_image.jpg
+
 ## Overview
 
 Microsoft is looking to expand into movies. Given the type of company that Microsoft is, in addition to wanting to make a profit, it will need to satisfy shareholders. I chose to analyze the potential movies from a financial aspect. There can be benefits in small and large budget films.
@@ -12,13 +14,15 @@ With so many companies currently in this area, Microsoft is looking for insight 
 
 ## Data
 
+https://github.com/bkcoleman1024/Microsoft_Analysis/blob/main/images/RT_ratings.jpeg
+
 The data has been collected from well known movie sites such as IMDB (Internet Movie Database), Rotten Tomatoes, and TMDB (The Movie Database). The information from these sites provides information from the movie industry as well as user and audience input. The user input is mainly voting.
 
 ## Methods
 
 This project focuses on profit and loss and return on investment.  Domestic and worldwide profits were compared.  Movies with the largest profits also had larger budgets.
 Domestic and worldwide ROI was also analyzed.  ROI analysis shows that there is potential with smaller budget movies.   
-
+https://github.com/bkcoleman1024/Microsoft_Analysis/blob/main/images/Horror_movies.jpg
 
 ## Results
 

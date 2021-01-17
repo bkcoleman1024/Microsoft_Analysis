@@ -50,9 +50,9 @@ For any additional questions, please contact Bridget Coleman, bkcoleman1024@gmai
 
 
 ```
-├── MICROSOFT_README.md                 
+├── MICROSOFT_README.md   
+├── Microsoft_presentation.pdf
 ├── images            
-├── Microsoft_Analysis.ipynb         
-└── DS_Project_Presentation.pdf                              
+└── Microsoft_Analysis.ipynb         
 ```
 

@@ -2,7 +2,7 @@
 
 **Author**: Bridget Coleman
 
-images/Movie_image.jpg
+![Movie_image](images/Movie_image.jpg)
 
 ## Overview
 
@@ -14,7 +14,7 @@ With so many companies currently in this area, Microsoft is looking for insight 
 
 ## Data
 
-images/RT_ratings.jpeg
+![RT_ratings](images/RT_ratings.jpeg)
 
 The data has been collected from well known movie sites such as IMDB (Internet Movie Database), Rotten Tomatoes, and TMDB (The Movie Database). The information from these sites provides information from the movie industry as well as user and audience input. The user input is mainly voting.
 
@@ -23,9 +23,11 @@ The data has been collected from well known movie sites such as IMDB (Internet M
 This project focuses on profit and loss and return on investment.  Domestic and worldwide profits were compared.  Movies with the largest profits also had larger budgets.
 Domestic and worldwide ROI was also analyzed.  ROI analysis shows that there is potential with smaller budget movies.   
 
-images/Horror_movies.jpg
+![Horror_movies](images/Horror_movies.jpg)
 
 ## Results
+
+Movies should be distributed worldwide.  There will give the project the best chances of making a profit or at least breaking even.  
 
 The movies with the largest budgets have established franchises and fanbases.  These movies were the most recent Star Wars movies and Avengers movies.
 
@@ -42,7 +44,7 @@ Build off of user feedback. Use this to reach the target audience.
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](.Microsoft_Analysis.ipynb) or our [presentation](.Microsoft_Presentation.pdf).
+Please review the full analysis in [our Jupyter Notebook](.Microsoft_Analysis.ipynb) or our [presentation](.Microsoft_Presentation.pdf).
 
 For any additional questions, please contact Bridget Coleman, bkcoleman1024@gmail.com
 

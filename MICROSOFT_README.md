@@ -22,6 +22,8 @@ Domestic and worldwide ROI was also analyzed.  ROI analysis shows that there is 
 
 ## Results
 
+The movies should be distributed worldwide.  This will give the projects the best chance to make of making a profit or at least breaking even.
+
 The movies with the largest budgets have established franchises and fanbases.  These movies were the most recent Star Wars movies and Avengers movies.
 
 After reviewing the movies with the greatest ROI over the last 5-20 years, movies that can be classified as horror have some of the best returns.  

@@ -44,7 +44,7 @@ Build off of user feedback. Use this to reach the target audience.
 
 ## For More Information
 
-Please review the full analysis in [our Jupyter Notebook](https://github.com/bkcoleman1024/Microsoft_Analysis/blob/main/Microsoft_Analysis.ipynb) or the [presentation](. ./Microsoft_Presentation.pdf).
+Please review the full analysis in [our Jupyter Notebook](https://github.com/bkcoleman1024/Microsoft_Analysis/blob/main/Microsoft_Analysis.ipynb) or the [presentation](https://github.com/bkcoleman1024/Microsoft_Analysis/blob/main/Microsoft%20presentation.pdf).
 
 For any additional questions, please contact Bridget Coleman, bkcoleman1024@gmail.com
 
